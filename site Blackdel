@@ -26,7 +26,7 @@
    <h2>Mais musicas de Blackdel</h2>
    <div>
        <a href="https://www.youtube.com/watch?v=d9OZnrGa76Y">
-     <img src="https://img.youtube.com/vi/d9OZnrGa76Y/maxresdefault.jpg"
+     <img src="https://img.youtube.com/vi/d9OZnrGa76Y/maxresdefault.jpg" />
        </a>
    </div>
 </section>
