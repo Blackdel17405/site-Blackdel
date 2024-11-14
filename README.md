@@ -25,7 +25,7 @@
 <section>
    <h2>Mais musicas de Blackdel</h2>
    <div>
-     <img src="https://i.ytimg.com/vi/C4xWSUvpxso/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIRZcorTy1pkIyFDi5HRqh3C6lLQ"
+     <img src="https://img.youtube.com/vi/C4xWSUvpxso/maxresdefault.jpg"
    </div>
 </section>
 
