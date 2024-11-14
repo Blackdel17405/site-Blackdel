@@ -11,7 +11,7 @@
 
 <header>Blackdel</header>
 
-<section>
+<section class="chamada">
     <div class="chamada-texto">
         <h1>Blackdel - Pequeno Príncipe (Clipe).</h1>
         <p>#Blackdel</p>
@@ -22,9 +22,9 @@
     </div>
 </section>
 
-<section>
+<section class="categoria">
    <h2>Mais musicas de Blackdel</h2>
-   <div>
+   <div class="categoria-videos">
        <a href="https://www.youtube.com/watch?v=d9OZnrGa76Y">
      <img src="https://img.youtube.com/vi/d9OZnrGa76Y/maxresdefault.jpg" />
        </a>
